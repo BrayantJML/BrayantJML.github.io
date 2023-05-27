@@ -1,0 +1,135 @@
+html{
+background-color: #;
+}
+
+a{
+font-family: century gothic;
+font-size: 500%;
+color: white;
+Width:250%;
+Heigth:250%; 
+text-align: center;
+}
+
+
+ #cabecera {
+text-align: center;
+ color:#EFB724;
+ background-color: #9A7105;
+padding:8px;
+font-family: century gothic;
+font-size: 150%;
+}
+
+#botonestareas {
+ text-align: center;
+}
+
+
+.btnInv {
+background:lightgreen;
+color: black;
+display:inline-block;
+font-size:1.25em;
+margin:20px;
+padding:10px 0;
+width:250px;
+text-decoration:none;
+box-shadow:0px 3px 0px #373c3c;
+border-radius: 20px;
+}
+
+.btnInv:hover{
+color: rgba(255, 255, 255, 1) !important;
+box-shadow: 0 4px 16px green;
+transition: all 0.2s ease;
+}
+
+.btnPro {
+background:lightcoral;
+color: black;
+display:inline-block;
+font-size:1.25em;
+margin:20px;
+padding:10px 0;
+width:250px;
+text-decoration:none;
+box-shadow:0px 3px 0px #373c3c;
+border-radius: 20px;
+}
+
+.btnPro:hover{
+color: rgba(255, 255, 255, 1) !important;
+box-shadow: 0 4px 16px red;
+transition: all 0.2s ease;
+}
+
+section{
+    display: flex ;
+    width: 1500px;
+    height: 470px;
+    float: right;
+}
+
+section img{
+    width: 0px;
+    flex-grow: 1;
+    object-fit: cover;
+    opacity: .8;
+    transition: .5s ease;
+}
+
+section img:hover{
+    cursor: crosshair;
+    width: 300px;
+    opacity: 1;
+    filter: contrast(120%);
+}
+
+
+/***********************************/
+
+
+#btninf { 
+color:#900;
+text-align: center;
+font-family: century gothic
+}
+
+.btnAnt {
+ color:#EFB724;
+ background-color: #9A7105;
+display:inline-block;
+font-size:1.25em;
+margin:20px;
+padding:10px 0;
+width:250px;
+text-decoration:none;
+box-shadow:0px 3px 0px #373c3c;
+transition: all 1s ease;
+position: relative;
+}
+
+.btnAnt:hover{
+background: orange;
+color: white !important;
+}
+
+.btnSup {
+ color:#EFB724;
+ background-color: #9A7105;
+display:inline-block;
+font-size:1.25em;
+margin:20px;
+padding:10px 0;
+width:250px;
+text-decoration:none;
+box-shadow:0px 3px 0px #373c3c;
+transition: all 1s ease;
+position: relative;
+}
+
+.btnSup:hover{
+background: orange;
+color: white !important;
+}

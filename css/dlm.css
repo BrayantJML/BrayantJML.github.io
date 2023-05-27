@@ -1,0 +1,279 @@
+
+a{
+font-family: century gothic;
+font-size: 100%;
+color: black;
+text-align: center;
+}
+
+li{
+    color: #907403;
+}
+
+
+pre{
+    font-family: "Source Code Pro","Liberation Mono","Courier New",Courier,monospace;
+    font-size: 12px;
+    line-height: 1.35em;
+    overflow: hidden;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    margin: 0 0 20px 0;
+    padding: 0;
+    position: relative;
+    text-align: left;
+    direction: ltr;
+    padding: 12px; 
+    max-width: 80%; 
+    background-color: #F5F097 !important; 
+    text-align: left; 
+    color: black;
+    border-radius: 10px;
+
+}
+
+ #cabecera {
+text-align: center;
+ color:white;
+ background-color:#931800;
+padding:8px;
+font-family: century gothic;
+font-size: 150%;
+}
+
+#pro{
+    font-family: Arial;
+    font-size: 12px;
+    line-height: 1.35em;
+    overflow: hidden;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    margin: 0 0 20px 0;
+    padding: 0;
+    position: relative;
+    text-align: left;
+    direction: ltr;
+    padding: 12px; 
+    max-width: 20%; 
+    background-color: #CEF0A3 !important; 
+    text-align: left; 
+    color: black;
+    border-radius: 10px;
+}
+
+table, th,td {
+    border-collapse: collapse;
+    margin: 2px 0px;
+    border: 1px solid;
+    background-color: #95C5FC;
+}
+
+h2{
+ color: #CA4F32;
+ text-align: center;
+ font-family: Copperplate, Papyrus, fantasy;
+ font-size: 250%;
+}
+
+h3{
+    color: #952409;
+}
+main{
+    font-family: arial black;
+    color:black;
+    font-size: 120%;
+}
+
+
+#btninf { 
+color:#900;
+text-align: center;
+font-family: century gothic;
+}
+
+.btnAnt {
+ color:#EFB724;
+ background-color: #9A7105;
+display:inline-block;
+font-size:1.25em;
+margin:20px;
+padding:10px 0;
+width:250px;
+text-decoration:none;
+box-shadow:0px 3px 0px #373c3c;
+transition: all 1s ease;
+position: relative;
+}
+
+.btnAnt:hover{
+background: orange;
+color: white !important;
+}
+
+.btnSup {
+ color:#EFB724;
+ background-color: #9A7105;
+display:inline-block;
+font-size:1.25em;
+margin:20px;
+padding:10px 0;
+width:250px;
+text-decoration:none;
+box-shadow:0px 3px 0px #373c3c;
+transition: all 1s ease;
+position: relative;
+}
+
+.btnSup:hover{
+background: orange;
+color: white !important;
+}
+
+.li{
+    text-align: center;
+}
+
+.li2{
+    text-align: center;
+}
+
+.li3{
+    text-align: center;
+}
+
+.li4{
+    text-align: center;
+}
+
+.li5{
+    text-align: center;
+}
+
+.li6{
+    text-align: center;
+}
+
+.li7{
+    text-align: center;
+}
+
+.li8{
+    text-align: center;
+}
+
+.li9{
+    text-align: center;
+}
+
+.li10{
+    text-align: center;
+}
+
+.li11{
+    text-align: center;
+}
+
+.li12{
+    text-align: center;
+}
+
+.li13{
+    text-align: center;
+}
+
+.li14{
+    text-align: center;
+}
+
+.li15{
+    text-align: center;
+}
+
+.li16{
+    text-align: center;
+}
+
+.li17{
+    text-align: center;
+}
+
+.li18{
+    text-align: center;
+}
+
+.li19{
+    text-align: center;
+}
+
+.mo{
+    text-align: center;
+}
+
+.mo1{
+    text-align: center;
+}
+
+
+.mo2{
+    text-align: center;
+}
+
+.mo3{
+    text-align: center;
+}
+
+.mo4{
+    text-align: center;
+}
+
+.mo5{
+    text-align: center;
+}
+
+.mo6{
+    text-align: center;
+}
+
+.mo7{
+    text-align: center;
+}
+
+.mo8{
+    text-align: center;
+}
+
+.mo9{
+    text-align: center;
+}
+
+.mo10{
+    text-align: center;
+}
+
+.mo11{
+    text-align: center;
+}
+
+.mo12{
+    text-align: center;
+}
+
+.mo13{
+    text-align: center;
+}
+
+.mo14{
+    text-align: center;
+}
+
+.mo15{
+    text-align: center;
+}
+
+.fa{
+    text-align: center;
+}
+
+.fl{
+    text-align: center;
+}

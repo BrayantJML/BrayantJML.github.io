@@ -1,0 +1,113 @@
+
+a{
+font-family: century gothic;
+font-size: 500%;
+color: white;
+Width:250%;
+Heigth:250%; 
+text-align: center;
+}
+
+
+ #cabecera {
+text-align: center;
+ color:#EFB724;
+ background-color: #9A7105;
+padding:8px;
+font-family: century gothic;
+font-size: 150%;
+}
+
+#botones{
+ text-align: center;
+
+}
+
+.btnB {
+background:lightgreen;
+color:black;
+display:inline-block;
+font-size:4em;
+margin:20px;
+padding:150px 0;
+width:500px;
+text-decoration:none;
+box-shadow:0px 3px 0px #373c3c;
+font-family: century gothic;
+border-radius: 20px;
+}
+
+.btnB:hover{
+color: #02B515 !important;
+box-shadow: 0 4px 16px green;
+transition: all 0.2s ease;
+}
+
+.btnPA {
+background:lightgreen;
+color:black;
+display:inline-block;
+font-size:4em;
+margin:20px;
+padding:150px 0;
+width:600px;
+text-decoration:none;
+box-shadow:0px 3px 0px #373c3c;
+font-family: century gothic;
+border-radius: 20px;
+}
+
+.btnPA:hover{
+color: #02B515 !important;
+box-shadow: 0 4px 16px green;
+transition: all 0.2s ease;
+}
+
+#btninf { 
+color:#900;
+text-align: center;
+font-family: century gothic;
+}
+
+.btnAnt {
+ color:#EFB724;
+ background-color: #9A7105;
+display:inline-block;
+font-size:1.25em;
+margin:20px;
+padding:10px 0;
+width:250px;
+text-decoration:none;
+box-shadow:0px 3px 0px #373c3c;
+transition: all 1s ease;
+position: relative;
+}
+
+.btnAnt:hover{
+background: orange;
+color: white !important;
+}
+
+.btnSup {
+ color:#EFB724;
+ background-color: #9A7105;
+display:inline-block;
+font-size:1.25em;
+margin:20px;
+padding:10px 0;
+width:250px;
+text-decoration:none;
+box-shadow:0px 3px 0px #373c3c;
+transition: all 1s ease;
+position: relative;
+}
+
+.btnSup:hover{
+background: orange;
+color: white !important;
+}
+
+
+
+
+ 
